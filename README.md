@@ -1,2 +1,2 @@
 # problems-cses
-Some solutions to problems from the [CSES Problem Set](https://cses.fi/problemset).
+Some of my solutions to problems from the [CSES Problem Set](https://cses.fi/problemset).
